@@ -8,6 +8,9 @@ https://github.com/ziwen-xie/EC544
 Remote Control Terminal: 
 https://github.com/CacheUseOnly/EC544_Project
 
+Link to demo video on Youtube: 
+https://youtu.be/9dFd3kiMuZk
+
 ## The Robotics Part of EC544 Group Project
 
 The robot consists of a FRDM-K64F board, a robotic arm kit purchased on Amazon, a PCA9685 actuation module, and the wiring system. It can interact with other sections of the project, i.e. the Raspberry pi.
