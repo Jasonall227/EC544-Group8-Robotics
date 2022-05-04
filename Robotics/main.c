@@ -6,6 +6,12 @@
  * SPDX-License-Identifier: BSD-3-Clause
  */
 
+// 4th May 2022  Author note: this code is derived on the official SDK example code"frdmk64f_gpio_led_output".
+// The IDE is MCUXpresso.
+// For simplicity, all modified code is on this page. 
+// The program can be fully operational by simply replacing the source file in the example project with the code on this page.
+// Configurations of the project may be very troublesome.
+
 #include "pin_mux.h"
 #include "clock_config.h"
 #include "board.h"
